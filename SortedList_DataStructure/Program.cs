@@ -38,6 +38,7 @@ namespace SortedList_DataStructure
             Console.WriteLine(list.GetByIndex(4));//belirtilen indeksteki değeri getir.yani 4.indeksteki değeri getirir
             //Get ->Key
             Console.WriteLine(list.GetKey(0));//belirtilen indeksteki değerin keyini getirir.
+            
             //son elemanı
             Console.WriteLine(list.GetByIndex(list.Count-1)); //listenin sonundaki elemanı getir
             //son elemanın anahtarı

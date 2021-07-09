@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassExamp", "ClassExamp\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_DataStructure", "DataStructures\Arrays_DataStructure.csproj", "{2CCAABEC-13DC-42BF-B9E3-27A77C285358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable_DataStructure", "HashTable_DataStructure\HashTable_DataStructure.csproj", "{3D69A96E-CFCC-4A27-A0DF-32BB9A6472AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable_DataStructure", "HashTable_DataStructure\HashTable_DataStructure.csproj", "{3D69A96E-CFCC-4A27-A0DF-32BB9A6472AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList_DataStructure", "SortedList_DataStructure\SortedList_DataStructure.csproj", "{B64B1511-B7A2-4919-A4DF-B5DB48E6CCC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList_DataStructure", "SortedList_DataStructure\SortedList_DataStructure.csproj", "{B64B1511-B7A2-4919-A4DF-B5DB48E6CCC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_DataStructure", "List_DataStructure\List_DataStructure.csproj", "{E2DA6BCB-3952-4917-BEE6-33D95DDB3D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_DataStructure", "Stack_DataStructure\Stack_DataStructure.csproj", "{AAE3F2E1-A1A9-4080-B3A0-3E74163EB5C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{B64B1511-B7A2-4919-A4DF-B5DB48E6CCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B64B1511-B7A2-4919-A4DF-B5DB48E6CCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B64B1511-B7A2-4919-A4DF-B5DB48E6CCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DA6BCB-3952-4917-BEE6-33D95DDB3D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DA6BCB-3952-4917-BEE6-33D95DDB3D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DA6BCB-3952-4917-BEE6-33D95DDB3D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DA6BCB-3952-4917-BEE6-33D95DDB3D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE3F2E1-A1A9-4080-B3A0-3E74163EB5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE3F2E1-A1A9-4080-B3A0-3E74163EB5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE3F2E1-A1A9-4080-B3A0-3E74163EB5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE3F2E1-A1A9-4080-B3A0-3E74163EB5C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
