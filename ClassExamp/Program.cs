@@ -10,8 +10,8 @@ namespace ClassExamp
             OgretimElemani ogrGor = new OgretimElemani()
             {
                 SicilNo=102,
-                Adi="Emre",
-                Soyadi="İpek",
+                Adi="Deniz",
+                Soyadi="Yılmaz",
                 Cinsiyet=true
             };
             Console.WriteLine(ogrGor);
@@ -22,7 +22,7 @@ namespace ClassExamp
             ogrGor.Cinsiyet = true;
             Console.WriteLine(ogrGor);
            
-            OgretimElemani ogretimElemani = new OgretimElemani(103,"Emrah","İpek",true);
+            OgretimElemani ogretimElemani = new OgretimElemani(103,"İbrahim","Hakan",true);
             Console.WriteLine(ogretimElemani);
 
 
@@ -31,10 +31,10 @@ namespace ClassExamp
             //class reference type
             var liste1 = new List<OgretimElemani>() 
             {
-               new OgretimElemani(104,"Emrex","ipekx",true),
-               new OgretimElemani(105,"Sibel","ipek",false),
-               new OgretimElemani(106,"Mehmet","ipek",true),
-               new OgretimElemani(107,"İclal","ipek",false)
+               new OgretimElemani(104,"Hakan","Sakan",true),
+               new OgretimElemani(105,"Elif","Tunç",false),
+               new OgretimElemani(106,"Meltem","Yılmaz",true),
+               new OgretimElemani(107,"Leyla","Polat",false)
             };
             #region
             Console.WriteLine("Liste1");

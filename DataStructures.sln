@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramlamaTemelleri", "ProgramlamaTemelleri\ProgramlamaTemelleri.csproj", "{0A6FC5B7-6A22-4349-A714-A68A2A3F952F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic_DataStructure", "ProgramlamaTemelleri\Basic_DataStructure.csproj", "{0A6FC5B7-6A22-4349-A714-A68A2A3F952F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structure", "Structure\Structure.csproj", "{1279B4AA-31B3-415F-BCC1-C53529AE5B89}"
 EndProject
@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary_DataStructure", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDictionary_DataStructure", "SortedDictionary_DataStructure\SortedDictionary_DataStructure.csproj", "{6209606B-6A5F-42B3-BA85-6E49FD64AB6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet_DataStructure", "SortedSet_DataStructure\SortedSet_DataStructure.csproj", "{4DF39A5E-37C9-42A6-9C5E-0210635107D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedSet_DataStructure", "SortedSet_DataStructure\SortedSet_DataStructure.csproj", "{4DF39A5E-37C9-42A6-9C5E-0210635107D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet_DataStructure", "HashSet_DataStructure\HashSet_DataStructure.csproj", "{922A57EF-528A-4818-BB8F-52B91EBD0F6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{4DF39A5E-37C9-42A6-9C5E-0210635107D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF39A5E-37C9-42A6-9C5E-0210635107D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DF39A5E-37C9-42A6-9C5E-0210635107D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922A57EF-528A-4818-BB8F-52B91EBD0F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922A57EF-528A-4818-BB8F-52B91EBD0F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922A57EF-528A-4818-BB8F-52B91EBD0F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922A57EF-528A-4818-BB8F-52B91EBD0F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

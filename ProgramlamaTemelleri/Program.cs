@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProgramlamaTemelleri
+namespace Basic_DataStructure
 {
     class Program
     {
