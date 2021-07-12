@@ -16,3 +16,5 @@ Dictionary<br>
 SortedDictionary<br>
 SortedSet<br>
 HashSet
+<hr>
+<b>not:</b>Bu Projede Doğrusal Koleksiyonlar(Lineer_Collection) üzerinde duruldu.Doğrusal Olmayan Koleksiyonlar(Non-Lineer_Collection) da gelecektir.
