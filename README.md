@@ -1,4 +1,4 @@
-Kod İçerikleri(Lineer_Collection)
+Kod İçerikleri(Lineer_Collection) <hr>
 Veri Türleri
 Veri Türlerinin Alt Ve Üst Limitleri
 Struct(Yapı)
